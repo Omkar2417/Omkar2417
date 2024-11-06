@@ -3,8 +3,6 @@
 - 👀 I’m interested in Software Development 
 - 📫 How to reach me - email:- yadavomkar831@gmail.com
                       - Linkdin:- https://www.linkedin.com/in/omkar-yadav-a89547258/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 <!---
 Omkar2417/Omkar2417 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
