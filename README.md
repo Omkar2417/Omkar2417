@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Omkar Sanjay Yadav
 - 🌱 I’m currently persuing Computer Science & Information Technology Engineering
-- 👀 I’m interested in Software Development 
+- 👀 I’m interested in Software Development, Salesforce
 - 📫 How to reach me - email:- yadavomkar831@gmail.com
                       - Linkdin:- https://www.linkedin.com/in/omkar-yadav-a89547258/
 
